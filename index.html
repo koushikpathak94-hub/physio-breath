@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Physio Breath | Home Visit Physiotherapy in Guwahati</title>
+<meta name="description" content="Home visit physiotherapy in Guwahati. Certified physiotherapists come to your door for back pain, knee pain, frozen shoulder, stroke rehab, arthritis & post-surgery recovery. Book a home session today.">
+<meta name="keywords" content="physiotherapy Guwahati, home visit physiotherapist Guwahati, physiotherapy at home Guwahati, back pain treatment Guwahati, stroke rehabilitation Guwahati, knee pain physiotherapy, frozen shoulder treatment Guwahati, Physio Breath">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Physio Breath">
+<meta name="theme-color" content="#2E6FF2">
+<link rel="canonical" href="https://www.physiobreath.in/">
+<!-- NOTE: update the canonical URL above once the site has a live domain -->
+
+<!-- Open Graph / social preview -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Physio Breath | Home Visit Physiotherapy in Guwahati">
+<meta property="og:description" content="Certified physiotherapists, delivered to your home, anywhere in Guwahati. Back pain, knee pain, frozen shoulder, stroke rehab and more.">
+<meta property="og:image" content="logo.png">
+<meta property="og:locale" content="en_IN">
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="logo.png" type="image/png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+
+<!-- Local business structured data for search engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "name": "Physio Breath",
+  "alternateName": "Physio Breath Home Physiotherapy",
+  "image": "logo.png",
+  "description": "Home visit physiotherapy service in Guwahati specialising in back pain, stroke rehabilitation, arthritis, knee pain, post-surgery recovery, neck pain, joint pain and frozen shoulder.",
+  "telephone": ["+91 9365633019", "+91 6000257268"],
+  "email": "breathphysio@gmail.com",
+  "priceRange": "$$",
+  "areaServed": { "@type": "City", "name": "Guwahati" },
+  "address": { "@type": "PostalAddress", "addressLocality": "Guwahati", "addressRegion": "Assam", "addressCountry": "IN" },
+  "sameAs": ["https://www.instagram.com/physio_breath"],
+  "medicalSpecialty": "Physiotherapy",
+  "slogan": "Move Better, Heal Faster"
+}
+</script>
+<!-- NOTE: once the site is live, update "image" and add a real "url" field pointing at the hosted domain -->
+
+<style>
+  :root{
+    --indigo:#4A55D9;
+    --teal:#12B4B0;
+    --blue:#2E6FF2;
+    --green:#67B23F;
+    --ink:#0F1830;
+    --muted:#5B6478;
+    --paper:#F5F8FD;
+    --card:#FFFFFF;
+    --card-2:#EEF3FC;
+    --line:rgba(15,24,48,0.10);
+    --shadow:0 20px 45px -24px rgba(20,40,90,0.28);
+    --radius:20px;
+    --max:1200px;
+    --focus:#B8560E;
+    color-scheme: light;
+  }
+  [data-theme="dark"]{
+    --ink:#EAEEFB;
+    --muted:#9BA6C4;
+    --paper:#0A1120;
+    --card:#121B32;
+    --card-2:#0F1830;
+    --line:rgba(234,238,251,0.12);
+    --shadow:0 25px 50px -24px rgba(0,0,0,0.6);
+    --focus:#FFC98A;
+    color-scheme: dark;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  @media (prefers-reduced-motion: reduce){
+    html{scroll-behavior:auto;}
+    *{animation-duration:0.001ms !important; animation-iteration-count:1 !important; transition-duration:0.001ms !important;}
+  }
+
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+    font-size:17px;
+    line-height:1.65;
+    transition:background 0.25s ease, color 0.25s ease;
+  }
+  h1,h2,h3,h4{
+    font-family:'Sora', sans-serif;
+    font-weight:700;
+    color:var(--ink);
+    margin:0 0 0.5em 0;
+    line-height:1.15;
+  }
+  p{margin:0 0 1em 0; color:var(--ink);}
+  a{color:inherit;}
+  img{max-width:100%; display:block;}
+  button{font-family:inherit;}
+
+  .wrap{max-width:var(--max); margin:0 auto; padding:0 24px;}
+  .eyebrow{
+    display:inline-flex; align-items:center; gap:10px;
+    font-family:'IBM Plex Mono', monospace; font-size:0.75rem; letter-spacing:0.09em;
+    text-transform:uppercase; color:var(--teal); margin-bottom:14px; font-weight:500;
+  }
+  .eyebrow::before{content:''; width:20px; height:1px; background:var(--teal);}
+
+  .skip-link{
+    position:absolute; left:-999px; top:auto;
+    background:var(--ink); color:var(--paper);
+    padding:14px 20px; border-radius:0 0 10px 0; z-index:1000; font-weight:600; text-decoration:none;
+  }
+  .skip-link:focus{left:0; top:0;}
+  :focus-visible{outline:3px solid var(--focus); outline-offset:2px; border-radius:4px;}
+
+  section{padding:84px 0;}
+  .section-head{max-width:62ch; margin-bottom:44px;}
+  .section-head h2{font-size:clamp(1.7rem, 3vw, 2.3rem);}
+  .section-head p{color:var(--muted); font-size:1.03rem;}
+  .center{text-align:center; margin-left:auto; margin-right:auto;}
+
+  .btn-primary, .btn-secondary, .btn-ghost{
+    display:inline-flex; align-items:center; justify-content:center; gap:8px;
+    text-decoration:none; font-weight:600; border-radius:999px; cursor:pointer;
+    padding:14px 26px; font-size:0.98rem; border:1.5px solid transparent;
+    transition:transform 0.18s ease, background 0.18s ease, box-shadow 0.18s ease;
+  }
+  .btn-primary{background:linear-gradient(135deg, var(--blue), var(--teal)); color:#fff;}
+  .btn-primary:hover{transform:translateY(-2px); box-shadow:0 14px 28px -14px rgba(46,111,242,0.55);}
+  .btn-secondary{background:transparent; border-color:var(--ink); color:var(--ink);}
+  .btn-secondary:hover{background:var(--card-2); transform:translateY(-2px);}
+  .btn-ghost{background:var(--card-2); color:var(--ink); font-size:0.9rem; padding:10px 18px;}
+
+  /* ---------------- HEADER ---------------- */
+  header{
+    position:sticky; top:0; z-index:200;
+    background:color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .nav-row{display:flex; align-items:center; justify-content:space-between; padding:14px 24px; max-width:var(--max); margin:0 auto; gap:16px;}
+  .logo-mark{display:flex; align-items:center; gap:10px; text-decoration:none; flex-shrink:0;}
+  .logo-mark img{width:42px; height:42px; border-radius:50%;}
+  .logo-text{font-family:'Sora',sans-serif; font-weight:700; font-size:1.15rem; color:var(--ink); line-height:1.1;}
+  .logo-text small{display:block; font-family:'Inter',sans-serif; font-weight:500; font-size:0.62rem; letter-spacing:0.06em; text-transform:uppercase; color:var(--muted);}
+
+  nav.primary{display:flex; align-items:center; gap:24px; flex-wrap:wrap;}
+  nav.primary a{text-decoration:none; font-weight:500; font-size:0.92rem; color:var(--muted); border-bottom:2px solid transparent; padding:6px 1px; transition:color 0.2s ease, border-color 0.2s ease;}
+  nav.primary a:hover{color:var(--ink); border-color:var(--teal);}
+
+  .header-actions{display:flex; align-items:center; gap:10px; flex-shrink:0;}
+  .icon-btn{
+    width:40px; height:40px; border-radius:50%; border:1px solid var(--line);
+    background:var(--card); display:flex; align-items:center; justify-content:center;
+    cursor:pointer; color:var(--ink); flex-shrink:0;
+  }
+  .icon-btn svg{width:18px; height:18px;}
+  .call-pill{
+    display:flex; align-items:center; gap:8px; background:var(--ink); color:var(--paper) !important;
+    padding:10px 18px; border-radius:999px; font-weight:600; font-size:0.9rem; text-decoration:none; white-space:nowrap;
+  }
+  .menu-toggle{display:none;}
+
+  @media (max-width:960px){
+    nav.primary{
+      position:fixed; inset:0 0 0 auto; top:69px; height:calc(100vh - 69px);
+      background:var(--paper); flex-direction:column; align-items:flex-start; padding:30px 26px; gap:20px;
+      width:min(300px,80vw); transform:translateX(110%); transition:transform 0.3s ease; border-left:1px solid var(--line); overflow-y:auto;
+    }
+    nav.primary.open{transform:translateX(0);}
+    .menu-toggle{display:flex;}
+    .call-pill span.txt{display:none;}
+  }
+
+  /* ---------------- HERO ---------------- */
+  .hero{padding:64px 0 80px; overflow:hidden;}
+  .hero-grid{display:grid; grid-template-columns:1.05fr 0.95fr; gap:52px; align-items:center;}
+  .hero h1{font-size:clamp(2.2rem, 4.6vw, 3.3rem); max-width:14ch;}
+  .hero h1 .accent{background:linear-gradient(135deg, var(--blue), var(--teal)); -webkit-background-clip:text; background-clip:text; color:transparent;}
+  .hero-sub{max-width:48ch; font-size:1.08rem; color:var(--muted); margin-top:16px;}
+  .hero-ctas{display:flex; gap:14px; margin-top:28px; flex-wrap:wrap;}
+  .hero-badges{display:flex; gap:22px; margin-top:32px; flex-wrap:wrap;}
+  .hero-badge{display:flex; align-items:center; gap:8px; font-size:0.86rem; color:var(--muted); font-weight:500;}
+  .hero-badge svg{width:18px; height:18px; stroke:var(--teal); flex-shrink:0;}
+
+  .map-card{
+    position:relative; background:var(--card); border-radius:24px; border:1px solid var(--line); box-shadow:var(--shadow);
+    padding:14px; overflow:hidden;
+  }
+  .map-frame{border-radius:16px; overflow:hidden; position:relative; aspect-ratio:1/1;}
+  .map-frame iframe{width:100%; height:100%; border:0; filter:saturate(0.9);}
+  .pulse-pin{
+    position:absolute; top:50%; left:50%; transform:translate(-50%,-100%);
+    width:20px; height:20px; pointer-events:none;
+  }
+  .pulse-pin .dot{
+    width:20px; height:20px; border-radius:50%; background:var(--blue); border:3px solid #fff;
+    box-shadow:0 4px 10px rgba(0,0,0,0.25); position:relative; z-index:2;
+  }
+  .pulse-pin .ring{
+    position:absolute; inset:-14px; border-radius:50%; background:rgba(46,111,242,0.35);
+    animation:pulse-ring 2.2s ease-out infinite;
+  }
+  @keyframes pulse-ring{
+    0%{transform:scale(0.5); opacity:0.7;}
+    100%{transform:scale(2.4); opacity:0;}
+  }
+  .map-ribbon{
+    position:absolute; top:26px; left:26px; background:var(--ink); color:var(--paper);
+    padding:8px 14px; border-radius:999px; font-size:0.78rem; font-weight:600; display:flex; align-items:center; gap:8px;
+    box-shadow:0 10px 20px -10px rgba(0,0,0,0.4);
+  }
+  .map-ribbon .live-dot{width:8px; height:8px; border-radius:50%; background:var(--green); box-shadow:0 0 0 0 rgba(103,178,63,0.6); animation:live 1.8s infinite;}
+  @keyframes live{
+    0%{box-shadow:0 0 0 0 rgba(103,178,63,0.55);}
+    70%{box-shadow:0 0 0 8px rgba(103,178,63,0);}
+    100%{box-shadow:0 0 0 0 rgba(103,178,63,0);}
+  }
+  .map-caption{padding:16px 10px 6px; font-size:0.88rem; color:var(--muted); text-align:center;}
+
+  @media (max-width:940px){.hero-grid{grid-template-columns:1fr;}}
+
+  /* ---------------- TRUST STRIP ---------------- */
+  .trust-strip{background:var(--card-2); padding:26px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
+  .trust-row{display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap;}
+  .trust-item{display:flex; align-items:center; gap:10px; font-size:0.92rem; font-weight:600; color:var(--ink);}
+  .trust-item svg{width:20px; height:20px; stroke:var(--blue); flex-shrink:0;}
+
+  /* ---------------- SERVICES ---------------- */
+  .svc-grid{display:grid; grid-template-columns:repeat(4, 1fr); gap:18px;}
+  .svc-card{
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:26px 22px;
+    transition:transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .svc-card:hover{transform:translateY(-4px); box-shadow:var(--shadow);}
+  .svc-icon{width:46px; height:46px; border-radius:12px; background:var(--card-2); display:flex; align-items:center; justify-content:center; margin-bottom:16px;}
+  .svc-icon svg{width:24px; height:24px; stroke:var(--blue);}
+  .svc-card h3{font-size:1.05rem; margin-bottom:6px;}
+  .svc-card p{font-size:0.92rem; color:var(--muted); margin:0;}
+  @media (max-width:960px){.svc-grid{grid-template-columns:repeat(2,1fr);}}
+  @media (max-width:520px){.svc-grid{grid-template-columns:1fr;}}
+
+  /* ---------------- SYMPTOM CHECKER ---------------- */
+  .checker{background:var(--card); border:1px solid var(--line); border-radius:28px; padding:40px; box-shadow:var(--shadow);}
+  .checker-grid{display:grid; grid-template-columns:1fr 1fr; gap:36px; align-items:start;}
+  .field{display:flex; flex-direction:column; gap:8px; margin-bottom:18px;}
+  .field label{font-size:0.84rem; font-weight:600; color:var(--muted);}
+  select, input, textarea{
+    background:var(--card-2); border:1px solid var(--line); border-radius:12px; padding:13px 14px;
+    font-family:'Inter',sans-serif; font-size:0.98rem; color:var(--ink); width:100%;
+  }
+  select:focus, input:focus, textarea:focus{outline:3px solid var(--focus); outline-offset:1px;}
+  .checker-result{
+    background:var(--card-2); border-radius:18px; padding:24px; min-height:220px;
+    display:flex; flex-direction:column; justify-content:center; gap:10px;
+  }
+  .checker-result h4{margin:0; font-size:1.05rem;}
+  .checker-result p{margin:0; color:var(--muted); font-size:0.95rem;}
+  .disclaimer{font-size:0.8rem; color:var(--muted); margin-top:16px; border-top:1px dashed var(--line); padding-top:14px;}
+  @media (max-width:880px){.checker-grid{grid-template-columns:1fr;} .checker{padding:26px;}}
+
+  /* ---------------- PROCESS ---------------- */
+  .process-list{display:grid; grid-template-columns:repeat(4,1fr); border-top:1px solid var(--line);}
+  .step{padding:30px 22px 30px 0; border-right:1px solid var(--line);}
+  .step:last-child{border-right:none;}
+  .step-num{font-family:'IBM Plex Mono', monospace; color:var(--teal); font-size:0.82rem; display:block; margin-bottom:12px;}
+  .step h3{font-size:1.02rem; margin-bottom:6px;}
+  .step p{color:var(--muted); font-size:0.92rem; margin:0;}
+  @media (max-width:880px){
+    .process-list{grid-template-columns:1fr;}
+    .step{border-right:none; border-bottom:1px solid var(--line); padding:24px 0;}
+    .step:last-child{border-bottom:none;}
+  }
+
+  /* ---------------- PROGRESS TRACKER ---------------- */
+  .tracker{background:var(--card); border:1px solid var(--line); border-radius:28px; padding:40px; box-shadow:var(--shadow);}
+  .tracker-grid{display:grid; grid-template-columns:0.9fr 1.1fr; gap:36px; align-items:start;}
+  .tracker-form{display:flex; flex-direction:column;}
+  .range-row{display:flex; align-items:center; gap:14px;}
+  .range-row input[type="range"]{width:100%;}
+  .range-val{font-family:'IBM Plex Mono', monospace; font-weight:600; font-size:1.1rem; min-width:34px; text-align:center;}
+  .tracker-note{font-size:0.85rem; color:var(--muted); margin-top:6px;}
+  .chart-box{background:var(--card-2); border-radius:16px; padding:18px; height:280px;}
+  .tracker-empty{display:flex; align-items:center; justify-content:center; height:100%; color:var(--muted); font-size:0.92rem; text-align:center; padding:0 20px;}
+  @media (max-width:880px){.tracker-grid{grid-template-columns:1fr;} .tracker{padding:26px;}}
+
+  /* ---------------- STORIES ---------------- */
+  .story-scroll{display:flex; gap:20px; overflow-x:auto; padding-bottom:10px; scroll-snap-type:x mandatory;}
+  .story-card{
+    scroll-snap-align:start; flex:0 0 320px; background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    padding:26px; box-shadow:var(--shadow);
+  }
+  .ba-row{display:flex; gap:10px; margin-bottom:16px;}
+  .ba-box{flex:1; border-radius:12px; overflow:hidden; background:var(--card-2); text-align:center; padding:18px 8px;}
+  .ba-box .tag{font-family:'IBM Plex Mono', monospace; font-size:0.7rem; text-transform:uppercase; letter-spacing:0.05em; color:var(--muted); display:block; margin-bottom:8px;}
+  .ba-score{font-family:'Sora',sans-serif; font-weight:700; font-size:1.8rem;}
+  .ba-box.after .ba-score{color:var(--green);}
+  .story-card h3{font-size:1.02rem; margin-bottom:6px;}
+  .story-card p{font-size:0.9rem; color:var(--muted); margin:0;}
+  .story-note{font-size:0.78rem; color:var(--muted); margin-top:22px; font-style:italic;}
+
+  /* ---------------- VIDEOS ---------------- */
+  .video-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}
+  .video-card{
+    border:1.5px dashed var(--line); border-radius:var(--radius); overflow:hidden; background:var(--card);
+    display:flex; flex-direction:column;
+  }
+  .video-thumb{
+    aspect-ratio:16/10; background:linear-gradient(135deg, var(--card-2), var(--card)); display:flex; align-items:center; justify-content:center; position:relative;
+  }
+  .play-btn{width:52px; height:52px; border-radius:50%; background:var(--blue); display:flex; align-items:center; justify-content:center; color:#fff;}
+  .play-btn svg{width:20px; height:20px; margin-left:3px;}
+  .video-card h3{font-size:0.98rem; margin:16px 18px 4px;}
+  .video-card p{font-size:0.85rem; color:var(--muted); margin:0 18px 18px;}
+  @media (max-width:880px){.video-grid{grid-template-columns:1fr 1fr;}}
+  @media (max-width:560px){.video-grid{grid-template-columns:1fr;}}
+
+  /* ---------------- BLOG ---------------- */
+  .blog-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:20px;}
+  .blog-card{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:26px;}
+  .blog-tag{font-family:'IBM Plex Mono', monospace; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal); margin-bottom:10px; display:block;}
+  .blog-card h3{font-size:1.02rem; margin-bottom:8px;}
+  .blog-card p{font-size:0.92rem; color:var(--muted); margin:0;}
+  @media (max-width:880px){.blog-grid{grid-template-columns:1fr;}}
+
+  /* ---------------- REVIEWS ---------------- */
+  .reviews-wrap{display:grid; grid-template-columns:0.8fr 1.2fr; gap:36px; align-items:center;}
+  .review-summary{background:var(--card); border:1px solid var(--line); border-radius:var(--radius); padding:34px; text-align:center; box-shadow:var(--shadow);}
+  .review-score{font-family:'Sora',sans-serif; font-size:3rem; font-weight:800;}
+  .stars{color:#F5A623; font-size:1.3rem; letter-spacing:2px; margin:8px 0;}
+  .review-grid{display:grid; grid-template-columns:1fr 1fr; gap:16px;}
+  .review-card{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:20px;}
+  .review-card .stars{font-size:0.95rem; margin:0 0 8px;}
+  .review-card p{font-size:0.9rem; color:var(--muted); margin:0 0 10px;}
+  .review-card strong{font-size:0.85rem;}
+  @media (max-width:880px){.reviews-wrap{grid-template-columns:1fr;} .review-grid{grid-template-columns:1fr;}}
+
+  /* ---------------- FAQ ---------------- */
+  .faq-list{max-width:800px; display:flex; flex-direction:column; gap:12px;}
+  details{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 22px;}
+  summary{cursor:pointer; font-weight:600; font-size:1rem; list-style:none; display:flex; justify-content:space-between; align-items:center; gap:12px;}
+  summary::-webkit-details-marker{display:none;}
+  summary::after{content:'+'; font-size:1.4rem; color:var(--teal); flex-shrink:0; transition:transform 0.2s ease;}
+  details[open] summary::after{transform:rotate(45deg);}
+  details p{margin:14px 0 0; color:var(--muted); font-size:0.94rem;}
+
+  /* ---------------- BOOKING / CONTACT ---------------- */
+  .contact{background:var(--ink); color:var(--paper);}
+  .contact h2, .contact .eyebrow{color:var(--paper);}
+  .contact .section-head p{color:rgba(234,238,251,0.72);}
+  [data-theme="dark"] .contact{background:#060A16;}
+  .contact-grid{display:grid; grid-template-columns:1fr 1fr; gap:40px;}
+  .booking-form{background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.14); border-radius:var(--radius); padding:32px; display:flex; flex-direction:column; gap:16px;}
+  .booking-form .field label{color:rgba(234,238,251,0.75);}
+  .booking-form select, .booking-form input, .booking-form textarea{background:rgba(255,255,255,0.08); border-color:rgba(255,255,255,0.18); color:#fff;}
+  .booking-form select option{color:#000;}
+  .form-row{display:grid; grid-template-columns:1fr 1fr; gap:14px;}
+  .confirm-box{background:rgba(103,178,63,0.14); border:1px solid rgba(103,178,63,0.4); border-radius:14px; padding:18px 20px; display:none; flex-direction:column; gap:10px;}
+  .confirm-box.show{display:flex;}
+  .confirm-box a{color:#9FE07A; font-weight:600; text-decoration:underline;}
+
+  .contact-details{list-style:none; margin:0 0 28px; padding:0; display:flex; flex-direction:column; gap:20px;}
+  .contact-details li{display:flex; gap:14px; align-items:flex-start;}
+  .contact-icon{width:38px; height:38px; border-radius:10px; background:rgba(255,255,255,0.08); display:flex; align-items:center; justify-content:center; flex-shrink:0;}
+  .contact-icon svg{width:18px; height:18px; stroke:var(--teal);}
+  .contact-details strong{display:block; font-size:0.74rem; text-transform:uppercase; letter-spacing:0.06em; color:var(--teal); font-family:'IBM Plex Mono', monospace; margin-bottom:3px;}
+  .contact-details a{color:#fff; text-decoration:none; font-weight:500;}
+  .contact-details a:hover{text-decoration:underline;}
+  .contact-map{border-radius:16px; overflow:hidden; border:1px solid rgba(255,255,255,0.14); aspect-ratio:16/10;}
+  .contact-map iframe{width:100%; height:100%; border:0;}
+  @media (max-width:880px){.contact-grid{grid-template-columns:1fr;} .form-row{grid-template-columns:1fr;}}
+
+  /* ---------------- FOOTER ---------------- */
+  footer.site-footer{background:#080D1C; color:rgba(234,238,251,0.55); padding:34px 0; font-size:0.88rem;}
+  .footer-row{display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;}
+  .footer-row a{color:rgba(234,238,251,0.8); text-decoration:none;}
+  .footer-row a:hover{text-decoration:underline;}
+
+  /* ---------------- FLOATING BUTTONS ---------------- */
+  .float-stack{position:fixed; right:20px; bottom:20px; z-index:300; display:flex; flex-direction:column; gap:12px; align-items:center;}
+  .fab{
+    width:56px; height:56px; border-radius:50%; display:flex; align-items:center; justify-content:center;
+    text-decoration:none; box-shadow:0 14px 28px -10px rgba(0,0,0,0.4); color:#fff; border:none; cursor:pointer;
+  }
+  .fab svg{width:26px; height:26px;}
+  .fab.whatsapp{background:#25D366;}
+  .fab.call{background:var(--blue);}
+  .fab:hover{transform:translateY(-2px);}
+
+  /* reveal-on-scroll */
+  .reveal{opacity:0; transform:translateY(16px); transition:opacity 0.5s ease, transform 0.5s ease;}
+  .reveal.in{opacity:1; transform:none;}
+
+  ::selection{background:var(--teal); color:#fff;}
+</style>
+</head>
+<body>
+
+<a href="#main" class="skip-link">Skip to main content</a>
+
+<!-- ================= HEADER ================= -->
+<header>
+  <div class="nav-row">
+    <a href="#top" class="logo-mark" aria-label="Physio Breath home">
+      <img src="logo.png" alt="Physio Breath logo">
+      <span class="logo-text">Physio Breath<small>Move Better · Heal Faster</small></span>
+    </a>
+
+    <nav class="primary" id="primaryNav">
+      <a href="#services">Services</a>
+      <a href="#checker">Symptom Checker</a>
+      <a href="#process">How it works</a>
+      <a href="#stories">Patient Stories</a>
+      <a href="#blog">Health Tips</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">Book Now</a>
+    </nav>
+
+    <div class="header-actions">
+      <button class="icon-btn" id="themeToggle" aria-label="Toggle dark mode" aria-pressed="false" type="button">
+        <svg id="themeIconSun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        <svg id="themeIconMoon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none;"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+      <a class="call-pill" href="tel:+919365633019" aria-label="Call Physio Breath now">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        <span class="txt">Call now</span>
+      </a>
+      <button class="menu-toggle icon-btn" id="menuToggle" aria-label="Open menu" aria-expanded="false" aria-controls="primaryNav" type="button">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ================= HERO ================= -->
+  <section class="hero" id="top">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Home visit physiotherapy · Guwahati</span>
+        <h1>Certified physiotherapy, <span class="accent">delivered to your door</span> in Guwahati</h1>
+        <p class="hero-sub">
+          Physio Breath brings hands-on physiotherapy home to you — back pain, knee pain,
+          frozen shoulder, stroke rehabilitation, arthritis, post-surgery recovery and more.
+          No travel, no waiting rooms, just focused one-on-one care.
+        </p>
+        <div class="hero-ctas">
+          <a class="btn-primary" href="#contact">Book a home visit</a>
+          <a class="btn-secondary" href="#checker">Check my symptoms</a>
+        </div>
+        <div class="hero-badges">
+          <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>Certified therapists</span>
+          <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>All of Guwahati</span>
+          <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M20 6 9 17l-5-5"/></svg>Personalised recovery plans</span>
+        </div>
+      </div>
+
+      <div class="map-card reveal">
+        <div class="map-ribbon"><span class="live-dot"></span> We come to you</div>
+        <div class="map-frame">
+          <iframe title="Physio Breath service area — Guwahati" src="https://www.google.com/maps?q=Guwahati,Assam&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div class="pulse-pin"><span class="ring"></span><span class="dot"></span></div>
+        </div>
+        <p class="map-caption">Home physiotherapy sessions available across Guwahati</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= TRUST STRIP ================= -->
+  <div class="trust-strip">
+    <div class="wrap trust-row">
+      <span class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 21s-7-4.35-7-11a7 7 0 0 1 14 0c0 6.65-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Sessions at your home</span>
+      <span class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>7 days a week</span>
+      <span class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="9"/></svg>Custom recovery plans</span>
+      <span class="trust-item"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 1 0-7.78 7.78L12 21l8.84-8.61a5.5 5.5 0 0 0 0-7.78z"/></svg>Caring, patient-first approach</span>
+    </div>
+  </div>
+
+  <!-- ================= SERVICES ================= -->
+  <section id="services">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">What we treat</span>
+        <h2>Home physiotherapy for the conditions that slow you down</h2>
+        <p>Every visit starts with a real assessment in the comfort of your own home.</p>
+      </div>
+      <div class="svc-grid">
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M6 3v11a3 3 0 0 0 3 3h0a3 3 0 0 0 3-3V8"/><circle cx="18" cy="6" r="3"/></svg></div><h3>Back pain</h3><p>Manual therapy and posture correction for lasting relief.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="6" r="3"/><path d="M9 9v4l-3 8M15 9v4l3 8M9 13h6"/></svg></div><h3>Stroke rehabilitation</h3><p>Guided neuro-rehab exercises to rebuild movement and independence.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 21s-7-4.35-9.5-9A5.5 5.5 0 0 1 12 6a5.5 5.5 0 0 1 9.5 6c-2.5 4.65-9.5 9-9.5 9z"/></svg></div><h3>Arthritis</h3><p>Gentle joint-friendly movement to ease stiffness and pain.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg></div><h3>Knee pain</h3><p>Strengthening and mobility work to move without discomfort.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M3 12h4l3 8 4-16 3 8h4"/></svg></div><h3>Post-surgery recovery</h3><p>Progressive rehab plans to safely restore strength after surgery.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M6 3v11a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3"/><circle cx="12" cy="5" r="2"/></svg></div><h3>Neck pain</h3><p>Targeted therapy for stiffness from posture, strain or injury.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="7" cy="7" r="3"/><circle cx="17" cy="17" r="3"/><path d="M9.5 9.5 14.5 14.5"/></svg></div><h3>Joint pain</h3><p>Full-body joint assessment with a plan built around your daily life.</p></div>
+        <div class="svc-card reveal"><div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M8 3v4M16 3v4M4 9h16M12 9v12"/><circle cx="12" cy="9" r="2"/></svg></div><h3>Frozen shoulder</h3><p>Structured range-of-motion therapy to unlock stiff shoulders.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= AI SYMPTOM CHECKER ================= -->
+  <section id="checker" style="background:var(--card-2);">
+    <div class="wrap">
+      <div class="section-head center">
+        <span class="eyebrow">AI-assisted guidance</span>
+        <h2>Not sure where to start? Try our symptom checker</h2>
+        <p>Answer two quick questions and get a general pointer toward the right kind of care.</p>
+      </div>
+
+      <div class="checker reveal">
+        <div class="checker-grid">
+          <div>
+            <div class="field">
+              <label for="symArea">Where is the main problem?</label>
+              <select id="symArea">
+                <option value="back">Back</option>
+                <option value="neck">Neck</option>
+                <option value="knee">Knee / joint</option>
+                <option value="shoulder">Shoulder</option>
+                <option value="surgery">Recent surgery</option>
+                <option value="neuro">Stroke / neurological</option>
+                <option value="balance">Balance / falls</option>
+                <option value="other">Something else</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="symDuration">How long has this been going on?</label>
+              <select id="symDuration">
+                <option value="new">Just started (under a week)</option>
+                <option value="weeks">A few weeks</option>
+                <option value="months">Several months</option>
+                <option value="chronic">A year or longer</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="symSeverity">How would you rate it right now?</label>
+              <select id="symSeverity">
+                <option value="mild">Mild — noticeable but manageable</option>
+                <option value="moderate">Moderate — limits daily activity</option>
+                <option value="severe">Severe — hard to move or bear weight</option>
+              </select>
+            </div>
+            <button class="btn-primary" type="button" id="checkBtn" style="width:100%; margin-top:6px;">Get my guidance</button>
+          </div>
+
+          <div class="checker-result" id="checkerResult" aria-live="polite">
+            <h4>Your general guidance will appear here</h4>
+            <p>This tool gives a general pointer only — fill in the fields and tap "Get my guidance".</p>
+          </div>
+        </div>
+        <p class="disclaimer">This tool offers general, non-diagnostic guidance only and does not replace an in-person assessment. If pain is severe, sudden, or follows an injury or surgery, please contact us directly or seek urgent medical care.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= PROCESS ================= -->
+  <section id="process">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">How it works</span>
+        <h2>From booking to recovery, in four steps</h2>
+        <p>The order most patients move through, start to finish.</p>
+      </div>
+      <div class="process-list">
+        <div class="step"><span class="step-num">01</span><h3>Book online or by call</h3><p>Choose a time, your condition, and your address — we confirm within the day.</p></div>
+        <div class="step"><span class="step-num">02</span><h3>Home assessment</h3><p>Your therapist arrives with equipment and assesses movement, strength and pain.</p></div>
+        <div class="step"><span class="step-num">03</span><h3>Hands-on treatment</h3><p>Manual therapy, guided exercise and a plan adjusted every visit.</p></div>
+        <div class="step"><span class="step-num">04</span><h3>Track your recovery</h3><p>Log progress after every session so you can see real change over time.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= PROGRESS TRACKER ================= -->
+  <section style="background:var(--card-2);">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Recovery progress tracker</span>
+        <h2>Watch your pain trend down, visit by visit</h2>
+        <p>Log how you feel after each session — saved privately to your account, visible only to you.</p>
+      </div>
+
+      <div class="tracker reveal">
+        <div class="tracker-grid">
+          <div class="tracker-form">
+            <div class="field">
+              <label for="trackDate">Session date</label>
+              <input type="date" id="trackDate">
+            </div>
+            <div class="field">
+              <label for="trackPain">Pain level today</label>
+              <div class="range-row">
+                <input type="range" id="trackPain" min="0" max="10" value="5">
+                <span class="range-val" id="trackPainVal">5</span>
+              </div>
+            </div>
+            <button class="btn-primary" type="button" id="trackAddBtn">Add entry</button>
+            <button class="btn-ghost" type="button" id="trackResetBtn" style="margin-top:10px;">Clear my history</button>
+            <p class="tracker-note">0 = no pain, 10 = worst pain imaginable.</p>
+          </div>
+          <div class="chart-box">
+            <canvas id="progressChart" role="img" aria-label="Chart of your logged pain levels over time"></canvas>
+            <div class="tracker-empty" id="trackerEmpty">No entries yet — log your first session to start your chart.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= PATIENT STORIES ================= -->
+  <section id="stories">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Patient stories</span>
+        <h2>Real recovery, tracked from first visit to last</h2>
+        <p>Sample recovery arcs — swap in real patient stories and photos once you have them on file.</p>
+      </div>
+      <div class="story-scroll">
+        <div class="story-card reveal">
+          <div class="ba-row">
+            <div class="ba-box before"><span class="tag">Before</span><div class="ba-score">7/10</div></div>
+            <div class="ba-box after"><span class="tag">After 6 wks</span><div class="ba-score">2/10</div></div>
+          </div>
+          <h3>Chronic lower back pain</h3>
+          <p>Returned to gardening and full workdays after a structured home programme.</p>
+        </div>
+        <div class="story-card reveal">
+          <div class="ba-row">
+            <div class="ba-box before"><span class="tag">Before</span><div class="ba-score">Stiff</div></div>
+            <div class="ba-box after"><span class="tag">After 8 wks</span><div class="ba-score">Full range</div></div>
+          </div>
+          <h3>Frozen shoulder</h3>
+          <p>Regained full overhead reach with progressive mobility therapy.</p>
+        </div>
+        <div class="story-card reveal">
+          <div class="ba-row">
+            <div class="ba-box before"><span class="tag">Before</span><div class="ba-score">Assisted</div></div>
+            <div class="ba-box after"><span class="tag">After 10 wks</span><div class="ba-score">Independent</div></div>
+          </div>
+          <h3>Post-stroke rehabilitation</h3>
+          <p>Rebuilt balance and walking confidence with in-home neuro-rehab sessions.</p>
+        </div>
+        <div class="story-card reveal">
+          <div class="ba-row">
+            <div class="ba-box before"><span class="tag">Before</span><div class="ba-score">Wheelchair</div></div>
+            <div class="ba-box after"><span class="tag">After 12 wks</span><div class="ba-score">Walker-free</div></div>
+          </div>
+          <h3>Post-surgery knee recovery</h3>
+          <p>Progressed from limited mobility to walking unassisted around the home.</p>
+        </div>
+      </div>
+      <p class="story-note">Illustrative examples for demonstration. Replace with real, consented patient stories before publishing.</p>
+    </div>
+  </section>
+
+  <!-- ================= EXERCISE VIDEOS ================= -->
+  <section style="background:var(--card-2);">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Exercise library</span>
+        <h2>Guided exercises to do between sessions</h2>
+        <p>Short routines your therapist may assign as home practice.</p>
+      </div>
+      <div class="video-grid">
+        <div class="video-card reveal"><div class="video-thumb"><div class="play-btn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></div></div><h3>Neck mobility routine</h3><p>Add your video link here to replace this placeholder.</p></div>
+        <div class="video-card reveal"><div class="video-thumb"><div class="play-btn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></div></div><h3>Knee strengthening basics</h3><p>Add your video link here to replace this placeholder.</p></div>
+        <div class="video-card reveal"><div class="video-thumb"><div class="play-btn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg></div></div><h3>Gentle post-surgery stretch</h3><p>Add your video link here to replace this placeholder.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= BLOG / HEALTH TIPS ================= -->
+  <section id="blog">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Health tips</span>
+        <h2>A little physiotherapy knowledge, often</h2>
+        <p>Short, practical reads — add new posts here as your blog grows.</p>
+      </div>
+      <div class="blog-grid">
+        <div class="blog-card reveal"><span class="blog-tag">Back care</span><h3>A 5-minute morning stretch for a stiff back</h3><p>A short, gentle sequence to loosen the spine before you start your day.</p></div>
+        <div class="blog-card reveal"><span class="blog-tag">Posture</span><h3>Sitting well while working from home</h3><p>Simple desk-setup habits that take real pressure off your neck and lower back.</p></div>
+        <div class="blog-card reveal"><span class="blog-tag">Breathing</span><h3>Using breath to ease chronic pain</h3><p>How slow, controlled breathing can calm a nervous system on edge from ongoing pain.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= GOOGLE REVIEWS ================= -->
+  <section style="background:var(--card-2);">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Google reviews</span>
+        <h2>What patients say about home visits</h2>
+        <p>Sample reviews shown below — connect your Google Business Profile to display live ratings here.</p>
+      </div>
+      <div class="reviews-wrap">
+        <div class="review-summary reveal">
+          <div class="review-score">4.9</div>
+          <div class="stars">★★★★★</div>
+          <p>Based on patient reviews</p>
+          <a class="btn-secondary" href="https://www.google.com/search?q=Physio+Breath+Guwahati+reviews" target="_blank" rel="noopener">Read reviews on Google</a>
+        </div>
+        <div class="review-grid">
+          <div class="review-card reveal"><div class="stars">★★★★★</div><p>"The therapist came right on time and was very patient with my mother's stroke recovery exercises."</p><strong>— Sample review</strong></div>
+          <div class="review-card reveal"><div class="stars">★★★★★</div><p>"So much easier than travelling to a clinic for my back pain. Booking was simple too."</p><strong>— Sample review</strong></div>
+          <div class="review-card reveal"><div class="stars">★★★★★</div><p>"My frozen shoulder finally has full movement back after a few weeks of home sessions."</p><strong>— Sample review</strong></div>
+          <div class="review-card reveal"><div class="stars">★★★★★</div><p>"Professional, on-time, and genuinely caring. Highly recommend for elderly parents."</p><strong>— Sample review</strong></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= FAQ ================= -->
+  <section id="faq">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">FAQ</span>
+        <h2>Common questions about home visit physiotherapy</h2>
+      </div>
+      <div class="faq-list">
+        <details><summary>Do you provide physiotherapy at home in Guwahati?<span></span></summary><p>Yes — Physio Breath sends a therapist to your home anywhere in Guwahati, with all treatment equipment included.</p></details>
+        <details><summary>What conditions do you treat?<span></span></summary><p>We treat back pain, neck pain, joint pain, arthritis, knee pain, frozen shoulder, stroke rehabilitation and post-surgery recovery.</p></details>
+        <details><summary>How do I book a home visit?<span></span></summary><p>Use the booking form below, call us directly, or message us on WhatsApp — we'll confirm a time within the day.</p></details>
+        <details><summary>What should I prepare before the first session?<span></span></summary><p>A comfortable, open space to move in, loose clothing, and any recent scans or doctor's notes if you have them.</p></details>
+        <details><summary>Do you treat elderly patients and stroke survivors?<span></span></summary><p>Yes — we regularly work with elderly patients on balance, falls prevention, and stroke rehabilitation at home.</p></details>
+        <details><summary>How many sessions will I need?<span></span></summary><p>It depends on the condition and severity. Your therapist will give you a realistic estimate after the first home assessment.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CONTACT / BOOKING ================= -->
+  <section class="contact" id="contact">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Book your home visit</span>
+        <h2>Tell us a little about you, and we'll take it from there</h2>
+        <p>Submit the form to send your details via WhatsApp, or call/email us directly.</p>
+      </div>
+
+      <div class="contact-grid">
+        <div>
+          <ul class="contact-details">
+            <li><div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg></div>
+              <div><strong>Phone</strong><a href="tel:+919365633019">+91 93656 33019</a><br><a href="tel:+916000257268">+91 60002 57268</a></div></li>
+            <li><div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M4 4h16v16H4z"/><path d="m4 6 8 7 8-7"/></svg></div>
+              <div><strong>Email</strong><a href="mailto:breathphysio@gmail.com">breathphysio@gmail.com</a></div></li>
+            <li><div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1"/></svg></div>
+              <div><strong>Instagram</strong><a href="https://www.instagram.com/physio_breath" target="_blank" rel="noopener">@physio_breath</a></div></li>
+            <li><div class="contact-icon"><svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M12 21s-7-4.35-7-11a7 7 0 0 1 14 0c0 6.65-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
+              <div><strong>Service area</strong><span style="color:#fff;">Home visits across Guwahati, Assam</span></div></li>
+          </ul>
+          <div class="contact-map">
+            <iframe title="Guwahati service area map" src="https://www.google.com/maps?q=Guwahati,Assam&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+
+        <form class="booking-form" id="bookingForm" aria-label="Book a home physiotherapy visit">
+          <div class="form-row">
+            <div class="field"><label for="bName">Full name</label><input id="bName" required autocomplete="name"></div>
+            <div class="field"><label for="bPhone">Phone number</label><input id="bPhone" type="tel" required autocomplete="tel"></div>
+          </div>
+          <div class="field"><label for="bAddress">Address / locality in Guwahati</label><input id="bAddress" required></div>
+          <div class="form-row">
+            <div class="field">
+              <label for="bCondition">Condition</label>
+              <select id="bCondition">
+                <option>Back pain</option><option>Stroke rehabilitation</option><option>Arthritis</option>
+                <option>Knee pain</option><option>Post-surgery recovery</option><option>Neck pain</option>
+                <option>Joint pain</option><option>Frozen shoulder</option><option>Other</option>
+              </select>
+            </div>
+            <div class="field"><label for="bDate">Preferred date</label><input id="bDate" type="date"></div>
+          </div>
+          <div class="field"><label for="bNotes">Anything else we should know?</label><textarea id="bNotes" rows="3"></textarea></div>
+          <button class="btn-primary" type="submit">Send booking request</button>
+
+          <div class="confirm-box" id="confirmBox">
+            <p style="margin:0; color:#fff;">Thanks! Send your details on WhatsApp to confirm, or add a reminder to your calendar:</p>
+            <a id="waLink" href="#" target="_blank" rel="noopener">Send via WhatsApp →</a>
+            <a id="calLink" href="#" target="_blank" rel="noopener">Add to Google Calendar →</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <span>&copy; 2026 Physio Breath. Home visit physiotherapy in Guwahati.</span>
+    <a href="#top">Back to top ↑</a>
+  </div>
+</footer>
+
+<!-- floating actions -->
+<div class="float-stack">
+  <a class="fab whatsapp" href="https://wa.me/919365633019?text=Hi%20Physio%20Breath%2C%20I%27d%20like%20to%20book%20a%20home%20physiotherapy%20session%20in%20Guwahati." target="_blank" rel="noopener" aria-label="Message Physio Breath on WhatsApp">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.5 3.5A11 11 0 0 0 3 17.4L2 22l4.7-1.2A11 11 0 1 0 20.5 3.5zM12 20a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 20zm4.4-6c-.2-.1-1.4-.7-1.6-.8-.2-.1-.4-.1-.5.1-.2.2-.6.8-.8 1-.1.2-.3.2-.5.1-.2-.1-1-.4-2-1.2-.7-.6-1.2-1.4-1.4-1.6-.1-.2 0-.4.1-.5l.4-.4c.1-.1.2-.3.2-.4.1-.2 0-.3 0-.4-.1-.1-.5-1.3-.7-1.8-.2-.4-.4-.4-.5-.4h-.5c-.2 0-.4.1-.6.3-.2.2-.8.8-.8 1.9s.8 2.2 1 2.3c.1.2 1.6 2.5 4 3.4.6.2 1 .4 1.3.5.6.2 1.1.1 1.5.1.5-.1 1.4-.6 1.6-1.1.2-.5.2-1 .1-1.1z"/></svg>
+  </a>
+  <a class="fab call" href="tel:+919365633019" aria-label="Call Physio Breath">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+  </a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js" defer></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  /* ---- mobile nav ---- */
+  const menuToggle = document.getElementById('menuToggle');
+  const nav = document.getElementById('primaryNav');
+  if (menuToggle && nav) {
+    menuToggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      menuToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+    nav.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+      nav.classList.remove('open');
+      menuToggle.setAttribute('aria-expanded', 'false');
+    }));
+  }
+
+  /* ---- theme toggle, persisted with window.storage ---- */
+  const root = document.documentElement;
+  const themeBtn = document.getElementById('themeToggle');
+  const sunIcon = document.getElementById('themeIconSun');
+  const moonIcon = document.getElementById('themeIconMoon');
+
+  function applyTheme(theme) {
+    if (theme === 'dark') {
+      root.setAttribute('data-theme', 'dark');
+      sunIcon.style.display = 'none';
+      moonIcon.style.display = 'block';
+      themeBtn.setAttribute('aria-pressed', 'true');
+    } else {
+      root.removeAttribute('data-theme');
+      sunIcon.style.display = 'block';
+      moonIcon.style.display = 'none';
+      themeBtn.setAttribute('aria-pressed', 'false');
+    }
+  }
+
+  (async function initTheme() {
+    try {
+      const stored = await window.storage.get('theme-preference', false);
+      if (stored && stored.value) applyTheme(stored.value);
+      else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) applyTheme('dark');
+    } catch (e) {
+      if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) applyTheme('dark');
+    }
+  })();
+
+  themeBtn.addEventListener('click', async () => {
+    const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    try { await window.storage.set('theme-preference', next, false); } catch (e) { /* non-fatal */ }
+  });
+
+  /* ---- reveal on scroll ---- */
+  const revealEls = document.querySelectorAll('.reveal');
+  if ('IntersectionObserver' in window) {
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(entry => { if (entry.isIntersecting) { entry.target.classList.add('in'); io.unobserve(entry.target); } });
+    }, { threshold: 0.12 });
+    revealEls.forEach(el => io.observe(el));
+  } else {
+    revealEls.forEach(el => el.classList.add('in'));
+  }
+
+  /* ---- AI symptom checker (rule-based, non-diagnostic) ---- */
+  const checkBtn = document.getElementById('checkBtn');
+  const resultBox = document.getElementById('checkerResult');
+  const guidance = {
+    back: 'This points toward our back pain programme — combining manual therapy with posture correction.',
+    neck: 'This points toward our neck pain programme, focused on gentle mobility and strain relief.',
+    knee: 'This points toward our knee and joint programme, focused on strengthening and pain-free movement.',
+    shoulder: 'This points toward our frozen shoulder / joint programme, focused on restoring range of motion.',
+    surgery: 'This points toward our post-surgery recovery programme, with a slow, progressive plan.',
+    neuro: 'This points toward our stroke rehabilitation programme, focused on regaining movement and independence.',
+    balance: 'This points toward our balance and falls-prevention programme.',
+    other: 'A home assessment is the best next step so a therapist can look at this directly.'
+  };
+  if (checkBtn) {
+    checkBtn.addEventListener('click', () => {
+      const area = document.getElementById('symArea').value;
+      const duration = document.getElementById('symDuration').value;
+      const severity = document.getElementById('symSeverity').value;
+      let urgency = 'We recommend booking a home assessment within the next week or two.';
+      if (severity === 'severe') urgency = 'Given the severity described, we recommend booking as soon as possible — call us directly if this is urgent.';
+      else if (duration === 'chronic') urgency = 'Since this has been ongoing for a while, an in-person assessment will help build a proper long-term plan.';
+      resultBox.innerHTML = '<h4>Here is our general guidance</h4><p>' + guidance[area] + ' ' + urgency + '</p>';
+      const cta = document.createElement('a');
+      cta.href = '#contact'; cta.className = 'btn-primary'; cta.style.marginTop = '10px'; cta.textContent = 'Book this assessment';
+      resultBox.appendChild(cta);
+      const conditionSelect = document.getElementById('bCondition');
+      const map = { back: 'Back pain', neck: 'Neck pain', knee: 'Knee pain', shoulder: 'Frozen shoulder', surgery: 'Post-surgery recovery', neuro: 'Stroke rehabilitation', balance: 'Other', other: 'Other' };
+      if (conditionSelect) conditionSelect.value = map[area] || 'Other';
+    });
+  }
+
+  /* ---- recovery progress tracker ---- */
+  const trackPain = document.getElementById('trackPain');
+  const trackPainVal = document.getElementById('trackPainVal');
+  const trackDate = document.getElementById('trackDate');
+  const trackAddBtn = document.getElementById('trackAddBtn');
+  const trackResetBtn = document.getElementById('trackResetBtn');
+  const trackerEmpty = document.getElementById('trackerEmpty');
+  const canvas = document.getElementById('progressChart');
+  let chartInstance = null;
+
+  if (trackDate) trackDate.valueAsDate = new Date();
+  if (trackPain && trackPainVal) trackPain.addEventListener('input', () => trackPainVal.textContent = trackPain.value);
+
+  async function loadEntries() {
+    try {
+      const res = await window.storage.get('progress-entries', false);
+      return res && res.value ? JSON.parse(res.value) : [];
+    } catch (e) { return []; }
+  }
+  async function saveEntries(entries) {
+    try { await window.storage.set('progress-entries', JSON.stringify(entries), false); } catch (e) { /* non-fatal */ }
+  }
+
+  function renderChart(entries) {
+    if (!canvas) return;
+    if (!entries.length) {
+      trackerEmpty.style.display = 'flex';
+      canvas.style.display = 'none';
+      if (chartInstance) { chartInstance.destroy(); chartInstance = null; }
+      return;
+    }
+    trackerEmpty.style.display = 'none';
+    canvas.style.display = 'block';
+    const sorted = [...entries].sort((a, b) => new Date(a.date) - new Date(b.date));
+    const labels = sorted.map(e => e.date);
+    const data = sorted.map(e => e.pain);
+    if (chartInstance) chartInstance.destroy();
+    if (window.Chart) {
+      chartInstance = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: { labels, datasets: [{ label: 'Pain level', data, borderColor: '#2E6FF2', backgroundColor: 'rgba(46,111,242,0.12)', tension: 0.35, fill: true, pointBackgroundColor: '#12B4B0' }] },
+        options: { responsive: true, maintainAspectRatio: false, scales: { y: { min: 0, max: 10, ticks: { stepSize: 2 } } }, plugins: { legend: { display: false } } }
+      });
+    }
+  }
+
+  (async function initTracker() { renderChart(await loadEntries()); })();
+
+  if (trackAddBtn) {
+    trackAddBtn.addEventListener('click', async () => {
+      const date = trackDate.value || new Date().toISOString().slice(0, 10);
+      const pain = parseInt(trackPain.value, 10);
+      const entries = await loadEntries();
+      entries.push({ date, pain });
+      await saveEntries(entries);
+      renderChart(entries);
+    });
+  }
+  if (trackResetBtn) {
+    trackResetBtn.addEventListener('click', async () => {
+      await saveEntries([]);
+      renderChart([]);
+    });
+  }
+
+  /* ---- booking form -> WhatsApp + Google Calendar ---- */
+  const bookingForm = document.getElementById('bookingForm');
+  const confirmBox = document.getElementById('confirmBox');
+  const waLink = document.getElementById('waLink');
+  const calLink = document.getElementById('calLink');
+
+  if (bookingForm) {
+    bookingForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const name = document.getElementById('bName').value;
+      const phone = document.getElementById('bPhone').value;
+      const address = document.getElementById('bAddress').value;
+      const condition = document.getElementById('bCondition').value;
+      const date = document.getElementById('bDate').value;
+      const notes = document.getElementById('bNotes').value;
+
+      const msg = 'Home physiotherapy booking request:\n' +
+        'Name: ' + name + '\n' +
+        'Phone: ' + phone + '\n' +
+        'Address: ' + address + '\n' +
+        'Condition: ' + condition + '\n' +
+        'Preferred date: ' + (date || 'Flexible') + '\n' +
+        'Notes: ' + (notes || '-');
+      waLink.href = 'https://wa.me/919365633019?text=' + encodeURIComponent(msg);
+
+      let startStr = '';
+      let endStr = '';
+      if (date) {
+        const d = date.replace(/-/g, '');
+        startStr = d + 'T090000';
+        endStr = d + 'T100000';
+      } else {
+        const now = new Date();
+        const fmt = (dt) => dt.toISOString().slice(0, 10).replace(/-/g, '') + 'T090000';
+        startStr = fmt(now); endStr = fmt(now);
+      }
+      const calText = encodeURIComponent('Physio Breath — Home Physiotherapy Visit (' + condition + ')');
+      const calDetails = encodeURIComponent('Home physiotherapy session for ' + name + '. Condition: ' + condition + '. Notes: ' + (notes || '-'));
+      const calLocation = encodeURIComponent(address + ', Guwahati');
+      calLink.href = 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=' + calText + '&dates=' + startStr + '/' + endStr + '&details=' + calDetails + '&location=' + calLocation;
+
+      confirmBox.classList.add('show');
+      confirmBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  }
+});
+</script>
+
+</body>
+</html>
